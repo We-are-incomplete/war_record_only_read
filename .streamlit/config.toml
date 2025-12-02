@@ -1,0 +1,6 @@
+# Streamlit Cloud 設定
+# メインページを指定
+
+[server]
+# ページ間のナビゲーション設定
+headless = true
